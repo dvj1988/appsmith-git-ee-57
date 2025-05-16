@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "MetricsBusiness.getHighAforceCount",
     "name": "getHighAforceCount",
     "pageId": "Support Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

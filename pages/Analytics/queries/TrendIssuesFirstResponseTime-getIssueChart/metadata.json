@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "TrendIssuesFirstResponseTime.getIssueChart",
     "name": "getIssueChart",
     "pageId": "Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

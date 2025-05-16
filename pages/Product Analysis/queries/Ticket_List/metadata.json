@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Ticket_List",
     "pageId": "Product Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

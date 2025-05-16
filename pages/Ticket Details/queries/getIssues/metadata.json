@@ -42,9 +42,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "getIssues",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

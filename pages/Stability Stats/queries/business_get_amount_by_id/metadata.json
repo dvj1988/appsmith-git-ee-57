@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "business_get_amount_by_id",
     "pageId": "Stability Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

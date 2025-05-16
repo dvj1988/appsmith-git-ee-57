@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "MetricsEnterprise.getCriticalIssues",
     "name": "getCriticalIssues",
     "pageId": "Support Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "SlackUtils.createSlackThread",
     "name": "createSlackThread",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

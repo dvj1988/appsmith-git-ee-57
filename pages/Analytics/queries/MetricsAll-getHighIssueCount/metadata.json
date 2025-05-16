@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "MetricsAll.getHighIssueCount",
     "name": "getHighIssueCount",
     "pageId": "Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

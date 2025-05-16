@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Utils.getBusinessIssues",
     "name": "getBusinessIssues",
     "pageId": "Engineering Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Utils.count",
     "name": "count",
     "pageId": "Stability Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

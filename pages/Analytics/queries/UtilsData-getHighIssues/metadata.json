@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "UtilsData.getHighIssues",
     "name": "getHighIssues",
     "pageId": "Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

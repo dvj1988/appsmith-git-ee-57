@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "DailyReportedUtils.postDailyReport",
     "name": "postDailyReport",
     "pageId": "Customer Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

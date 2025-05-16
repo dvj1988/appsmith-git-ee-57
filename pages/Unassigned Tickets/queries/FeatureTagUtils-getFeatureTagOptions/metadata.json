@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getFeatureTagOptions",
     "name": "getFeatureTagOptions",
     "pageId": "Unassigned Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

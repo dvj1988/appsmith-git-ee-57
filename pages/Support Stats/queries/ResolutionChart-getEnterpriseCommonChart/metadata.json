@@ -29,10 +29,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "ResolutionChart.getEnterpriseCommonChart",
     "name": "getEnterpriseCommonChart",
     "pageId": "Support Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

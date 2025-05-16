@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "MetricsCommunity.in_getHighPendingCount",
     "name": "in_getHighPendingCount",
     "pageId": "Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

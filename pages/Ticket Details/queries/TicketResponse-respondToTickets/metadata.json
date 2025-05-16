@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "TicketResponse.respondToTickets",
     "name": "respondToTickets",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

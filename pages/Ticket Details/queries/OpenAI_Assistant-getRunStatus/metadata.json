@@ -29,10 +29,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "OpenAI_Assistant.getRunStatus",
     "name": "getRunStatus",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -41,9 +41,9 @@
         "key": "formData.triggerData.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "zendesk_oracle_sync",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

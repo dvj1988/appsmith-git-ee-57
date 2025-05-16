@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Enterprise.getAforceCount",
     "name": "getAforceCount",
     "pageId": "Stability Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "DataTableFilters.getSearch",
     "name": "getSearch",
     "pageId": "Unassigned Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

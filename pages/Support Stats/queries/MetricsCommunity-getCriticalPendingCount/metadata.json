@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "MetricsCommunity.getCriticalPendingCount",
     "name": "getCriticalPendingCount",
     "pageId": "Support Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

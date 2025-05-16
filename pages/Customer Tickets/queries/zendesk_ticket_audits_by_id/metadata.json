@@ -61,9 +61,9 @@
         "key": "queryParameters[0].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "zendesk_ticket_audits_by_id",
     "pageId": "Customer Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

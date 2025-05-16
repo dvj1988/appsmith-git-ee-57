@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "testing.myFun1",
     "name": "myFun1",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

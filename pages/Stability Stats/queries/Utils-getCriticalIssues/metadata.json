@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Utils.getCriticalIssues",
     "name": "getCriticalIssues",
     "pageId": "Stability Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

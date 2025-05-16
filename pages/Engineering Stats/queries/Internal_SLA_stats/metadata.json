@@ -36,9 +36,9 @@
       "pluginId": "Workflow"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "Internal_SLA_stats",
     "pageId": "Engineering Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "TicketUtils.get_impacted_env",
     "name": "get_impacted_env",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

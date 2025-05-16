@@ -29,10 +29,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "ResolutionChart.getEnterpriseCriticalChart",
     "name": "getEnterpriseCriticalChart",
     "pageId": "Support Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

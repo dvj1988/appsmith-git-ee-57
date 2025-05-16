@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getSelectedFeatureCountItem",
     "name": "getSelectedFeatureCountItem",
     "pageId": "Tag Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

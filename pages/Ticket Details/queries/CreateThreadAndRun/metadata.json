@@ -35,9 +35,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
     "name": "CreateThreadAndRun",
     "pageId": "Ticket Details",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

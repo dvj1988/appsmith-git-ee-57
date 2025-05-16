@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "get_critical_issues",
     "pageId": "Stability Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

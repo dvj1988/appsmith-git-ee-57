@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getReportedOnSlackTickets",
     "name": "getReportedOnSlackTickets",
     "pageId": "Feature Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

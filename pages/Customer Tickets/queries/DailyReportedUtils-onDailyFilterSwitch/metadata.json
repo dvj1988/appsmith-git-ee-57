@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "DailyReportedUtils.onDailyFilterSwitch",
     "name": "onDailyFilterSwitch",
     "pageId": "Customer Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

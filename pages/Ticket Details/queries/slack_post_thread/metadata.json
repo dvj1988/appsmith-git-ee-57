@@ -51,9 +51,9 @@
         "key": "bodyFormData[1].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "slack_post_thread",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

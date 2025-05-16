@@ -29,10 +29,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Libs.compareLabels",
     "name": "compareLabels",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

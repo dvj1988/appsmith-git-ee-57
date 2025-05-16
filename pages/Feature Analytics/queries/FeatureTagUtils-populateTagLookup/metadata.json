@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "FeatureTagUtils.populateTagLookup",
     "name": "populateTagLookup",
     "pageId": "Feature Analytics",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

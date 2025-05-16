@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "ComparisonUtils.compare",
     "name": "compare",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

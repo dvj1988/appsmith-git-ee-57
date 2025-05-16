@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Libs.getGithubTagValue",
     "name": "getGithubTagValue",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

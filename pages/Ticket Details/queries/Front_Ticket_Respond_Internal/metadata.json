@@ -45,9 +45,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Front_Ticket_Respond_Internal",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

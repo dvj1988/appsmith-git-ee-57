@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FrontUtils.getStatuses",
     "name": "getStatuses",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

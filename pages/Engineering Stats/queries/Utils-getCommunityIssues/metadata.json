@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Utils.getCommunityIssues",
     "name": "getCommunityIssues",
     "pageId": "Engineering Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

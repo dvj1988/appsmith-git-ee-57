@@ -54,9 +54,9 @@
         "key": "queryParameters[2].value"
       }
     ],
-    "executeOnLoad": true,
     "name": "Fetch_Licenses",
     "pageId": "Ticket Details",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

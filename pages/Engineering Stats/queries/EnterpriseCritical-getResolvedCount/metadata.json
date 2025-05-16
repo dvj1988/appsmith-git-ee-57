@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "EnterpriseCritical.getResolvedCount",
     "name": "getResolvedCount",
     "pageId": "Engineering Stats",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

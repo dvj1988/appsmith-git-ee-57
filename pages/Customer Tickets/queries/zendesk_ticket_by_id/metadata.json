@@ -42,9 +42,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "zendesk_ticket_by_id",
     "pageId": "Customer Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -64,9 +64,9 @@
         "key": "formData.textGeneration.input.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "related_features_ai",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -42,9 +42,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Front_Tag_Create",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

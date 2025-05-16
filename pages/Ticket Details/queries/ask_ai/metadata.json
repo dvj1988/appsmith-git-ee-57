@@ -64,9 +64,9 @@
         "key": "formData.textGeneration.input.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "ask_ai",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

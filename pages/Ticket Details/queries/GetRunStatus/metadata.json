@@ -37,9 +37,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "GetRunStatus",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

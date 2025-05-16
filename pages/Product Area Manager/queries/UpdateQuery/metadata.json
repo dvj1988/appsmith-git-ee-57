@@ -22,9 +22,9 @@
       "name": "Aforce DB",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Product Area Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

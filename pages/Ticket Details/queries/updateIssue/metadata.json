@@ -45,9 +45,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "updateIssue",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

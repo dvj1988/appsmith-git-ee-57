@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.filterFromTagData",
     "name": "filterFromTagData",
     "pageId": "Tag Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

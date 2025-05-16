@@ -41,9 +41,9 @@
         "key": "formData.triggerData.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "zendesk_oracle_sync",
     "pageId": "Unassigned Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

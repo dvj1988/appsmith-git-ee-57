@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "UpdateQueryCopy",
     "pageId": "Product Area Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

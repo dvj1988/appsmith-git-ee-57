@@ -64,9 +64,9 @@
         "key": "formData.textGeneration.input.data"
       }
     ],
-    "executeOnLoad": true,
     "name": "summary_ai",
     "pageId": "Stability Stats",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

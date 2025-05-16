@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getDateFilters",
     "name": "getDateFilters",
     "pageId": "Tag Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

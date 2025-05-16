@@ -37,9 +37,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": true,
     "name": "GetThreadMessages",
     "pageId": "Ticket Details",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

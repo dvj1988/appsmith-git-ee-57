@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "DataTableFilters.getGithubTagValue",
     "name": "getGithubTagValue",
     "pageId": "Customer Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

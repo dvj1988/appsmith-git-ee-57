@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getGithubTagValue",
     "name": "getGithubTagValue",
     "pageId": "Tag Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

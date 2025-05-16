@@ -41,9 +41,9 @@
         "key": "formData.triggerData.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "Zendesk_Metadata_Sync",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.onFeatureTagChange",
     "name": "onFeatureTagChange",
     "pageId": "Product Analysis",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

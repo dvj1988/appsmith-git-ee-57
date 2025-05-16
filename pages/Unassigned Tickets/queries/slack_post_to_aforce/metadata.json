@@ -59,9 +59,9 @@
         "key": "bodyFormData[1].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "slack_post_to_aforce",
     "pageId": "Unassigned Tickets",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -45,9 +45,9 @@
         "key": "path"
       }
     ],
-    "executeOnLoad": false,
     "name": "Front_Tag_Update_Parent",
     "pageId": "Feature Tags Manager",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

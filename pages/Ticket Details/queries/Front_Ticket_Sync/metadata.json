@@ -41,9 +41,9 @@
         "key": "formData.triggerData.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "Front_Ticket_Sync",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

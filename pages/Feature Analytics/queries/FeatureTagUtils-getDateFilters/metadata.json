@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getDateFilters",
     "name": "getDateFilters",
     "pageId": "Feature Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

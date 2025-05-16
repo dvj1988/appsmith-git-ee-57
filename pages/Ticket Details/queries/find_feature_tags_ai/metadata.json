@@ -73,9 +73,9 @@
         "key": "formData.textClassify.input.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "find_feature_tags_ai",
     "pageId": "Ticket Details",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

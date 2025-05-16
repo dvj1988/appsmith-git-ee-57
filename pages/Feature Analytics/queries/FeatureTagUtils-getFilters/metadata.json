@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FeatureTagUtils.getFilters",
     "name": "getFilters",
     "pageId": "Feature Analytics",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -64,9 +64,9 @@
         "key": "formData.textGeneration.input.data"
       }
     ],
-    "executeOnLoad": true,
     "name": "summary_ai",
     "pageId": "Product Analysis",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
