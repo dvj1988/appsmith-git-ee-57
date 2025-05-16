@@ -39,7 +39,7 @@
     ],
     "name": "GetThreadMessages",
     "pageId": "Ticket Details",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

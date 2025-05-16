@@ -35,7 +35,7 @@
     "dynamicBindingPathList": [],
     "name": "slack_get_groups",
     "pageId": "Ticket Details",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
